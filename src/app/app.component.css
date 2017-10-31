@@ -1,0 +1,24 @@
+.container {
+    min-width: 970px !important;
+}
+
+.row {
+    min-height: 100%;
+}
+
+.content {
+   margin-top: 160px;
+    padding: 20px 50px;
+    background-color: rgb(117, 56, 6);
+    min-height: 600px !important;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    min-width: 970px !important;
+}
+
+.content {
+ 
+}

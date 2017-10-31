@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url(assets/images/coal-fire.jpg);
+    background-repeat: no-repeat;
+    color: rgb(209, 209, 209);
+    background-size: cover;
+    min-width: 970px !important;
+}
+
+a, i{
+    color: rgb(209, 209, 209);
+}
+
+a:hover, i:hover {
+    color: rgb(255, 68, 0);
+    text-decoration: none;
+}
+
+root {
+    height: 100%;
+ 
+}
